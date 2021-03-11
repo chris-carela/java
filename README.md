@@ -1,2 +1,8 @@
-# java
-My progression through Ruby courses, refreshers, and overall skill improvement.
+## Java Skill Building
+
+### Summary
+
+This project is intended to document Java items, including: 
+1. course progression from various online resources
+2. track my overall skill improvement
+3. used as a source for "refreshers"
